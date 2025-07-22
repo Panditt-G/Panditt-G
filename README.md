@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm Vishal Pandit ! Great to see you here👋</h1>
 <p align="left">IT undergrad exploring the synergy between AI and web development to build scalable, user-centric solutions. Committed to clean code, continuous learning, and open source innovation. 🌐🤖</p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=+Web+%2B+AI++%3D++solve+real+problems;Solving+with+software.+Scaling+with+intent.)](https://git.io/typing-svg)
 
 ### 🛠️ Tech Stack
 
